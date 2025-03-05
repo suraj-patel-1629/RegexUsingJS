@@ -11,3 +11,6 @@ console.log(validateEmail("abc.xyz@bridgelabz.co.in"));
 console.log(validateEmail("abc-xyz@bridgelabz.co.in"));
 console.log(validateEmail("abc_xyz@bridgelabz.co.in"));
 console.log(validateEmail("abc+xyz@bridgelabz.co.in"));
+
+console.log(validateEmail("xyz@bridgelabz.co"));
+console.log(validateEmail("abc@xyz.co"));
