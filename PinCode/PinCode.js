@@ -7,3 +7,4 @@ function validatePinCode(pinCode) {
 
 console.log(validatePinCode("400088"));
 console.log(validatePinCode("000088"));
+console.log(validatePinCode("A400088"));
